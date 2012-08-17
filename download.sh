@@ -1,15 +1,14 @@
 #!/bin/bash
 
-## Input:  stdin(paper url)
-## 		$1 => target dir ,default is ./papers/
+## Input:  stdin(url paper_name)
+## 		$1 => target dir ,default is ./output/
 ## Output: files
 function downloadPapers(){
-local ddd="./papers"; if ![ "x$1" -eq "x"  ]; then ddd=$1; mkdir -p $ddd;
-local tmp="${ddd}/tmp/"; mkdir -p $ddd;
-	awk '{
-		
-	
-	}'
+local ddd="./output"; if ![ "x$1" -eq "x"  ]; then ddd=$1; mkdir -p $ddd; fi
+	while read url  name ;
+	do
+		wget -O "$ddd/$name.pdf" $url ;
+	done;		
 }
 
-
+downloadPapers 
