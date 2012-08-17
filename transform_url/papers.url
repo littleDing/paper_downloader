@@ -1,59 +1,59 @@
-Mining Advisor-Advisee Relationships from Resaerch Publication Networks http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p47.pdf
-Estimating Rates of Rare Events with Multiple Hierarchies through Scalable Log-linear Models http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p213.pdf
-User Browsing Models: Relevance versus Examination http://www.cs.utexas.edu/~sugato/papers/aposteriori-uinorm-kdd10.pdf
-Suggesting Friends Using the Implicit Social Graph http://research.google.com/pubs/archive/36371.pdf
-New Perspectives and Methods in Link Prediction http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p243.pdf
-UP-Growth: An Efficient Algorithm for High Utility Itemsets Mining http://making.csie.ndhu.edu.tw/seminar/making/papers/PDF/UP-Growth%20An%20Efficient%20Algorithm%20for%20High%20Utility%20Itemset%20Mining(SIGKDD2010).pdf
-Frequent Regular Itemset Mining http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p263.pdf
-Mining Uncertain Data with Probabilistic Guarantees http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p273.pdf
-Mining Top-K Frequent Items in a Data Stream with Flexible Sliding Windows http://wwwis.win.tue.nl/~tcalders/pubs/KDD2010
-Probably the Best Itemsets http://sites.google.com/site/findexpert1/file/MiningAdvisor-AdviseeRelationshipsfromResearch.pdf
-Grafting-Light: Fast, Incremental Feature Selection and Structure Learning of Markov Random Fields http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p303.pdf
-A Scalable Two-Stage Approach for a Class of Dimensionality Reduction Techniques http://www.public.asu.edu/~jye02/Publications/Papers/rp416c-sun.pdf
-An Efficient Algorithm for a Class of Fused Lasso Problems http://www.public.asu.edu/~jye02/Publications/Papers/rp589f-liu.pdf
-Unsupervised Feature Selection for Multi-Cluster Data https://wwwx.cs.unc.edu/Courses/comp790-090-s11/Presentations/p333-cai.pdf
-Feature Selection for Support Vector Regression Using Probabilistic Prediction http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p343.pdf
-Versatile Publishing for Privacy Preservation http://home.gwu.edu/~xjin/pub/kdd2010.pdf
-Privacy-Preserving Outsourcing Support Vector Machines with Privacy Transformation http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p363.pdf
-On the Quality of Inferring Interests From Social Neighbors http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p373.pdf
-DUST: A Generalized Notion of Similarity between Uncertain Time Series http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p383.pdf
-Cold Start Link Prediction http://hal.archives-ouvertes.fr/docs/00/48/56/19/PDF/paper.pdf
-Learning with Cost Intervals http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/kdd10.pdf
-The new Iris Data: Modular Data Generators http://kops.ub.uni-konstanz.de/bitstream/handle/urn:nbn:de:bsz:352-opus-127267/12726.pdf?sequence=1
-Why label when you can search? Strategies for applying human resources to build classification models under extreme class imbalance http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p423.pdf
-Discovering Significant Relaxed Order-Preserving Submatrices http://www.cs.ust.hk/~wilfred/paper/sigkdd10.pdf
-Topic Dynamics: an alternative model of `Bursts' in Streams of Topics http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p443.pdf
-Extracting Temporal Signatures for Comprehending Systems Biology Models http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p453.pdf
-Negative correlations in collaboration: concepts and algorithms https://wwwx.cs.unc.edu/Courses/comp790-090-s11/Presentations/p463-li.pdf
-k-Support Anonymity based on Pseudo Taxonomy for Outsourcing of Frequent Itemset Mining http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p473.pdf
-Collusion-Resistant Privacy-Preserving Data Mining http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p483.pdf
-Data Mining with Differential Privacy http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p493.pdf
-Discovering frequent patterns in sensitive data http://videolectures.net/site/normal_dl/tag=73057/kdd2010_thakurta_dfp_01.pdf
-Fast Nearest Neighbor Search in Disk-resident Graphs http://www.cs.cmu.edu/~psarkar/rwdisk.pdf
-Balanced Allocation with Succinct Representation http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p523.pdf
-Neighbor Query Friendly Compression of Social Networks http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p533.pdf
-Parallel SimRank Computation on Large Graphs with Iterative Aggregation http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p543.pdf
-Dynamics of Conversations https://wwwx.cs.unc.edu/Courses/comp790-090-s11/Presentations/p553-kumar.pdf
-Flexible Constrained Spectral Clustering http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p563.pdf
-A Hierarchical Information Theoretic Technique for the Discovery of Non Linear Alternative Clusterings http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p573.pdf
-Clustering by Synchronization http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p583.pdf
-Unifying Dependent Clustering and Disparate Clustering for Non-homogeneous Data http://people.cs.vt.edu/naren/papers/rp733e-hossain.pdf
-Fast Euclidean Minimum Spanning Tree: Algorithm, Analysis, Applications http://arxiv.org/pdf/cs.DS/9912014
-Mining Program Workflow from Interleaved Traces http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p613.pdf
-Connecting the Dots Between News Articles http://140.122.184.128/presentation/10-11-09/Connecting%20the%20Dots%20Between%20News%20Articles.pdf
-Discovering Probabilistic Frequent Subgraphs over Uncertain Graph Databases http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p633.pdf
-Boosting with Structure Information in the Functional Space: an Application to Graph Classification http://people.eecs.ku.edu/~jhuan/papers/kdd_10_fei.pdf
-Discriminative Topic Modeling based on Manifold Learning http://www.cs.cmu.edu/~seungilh/pdf/KDD10_Huh.pdf
-Online Multiscale Dynamic Topic Models http://www.kecl.ntt.co.jp/csl/sirg/people/yasushi/mdtm.pdf
-Topic Models with Power-Law Using Pitman-Yor Process http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p673.pdf
-The Topic-Perspective Model for Social Tagging Systems http://daim.pku.edu.cn/junjie.yao/papers/WWWJ2011.pdf
-Combining Predictions for Accurate Recommender Systems http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p693.pdf
-Fast Online Learning through Effective Offline Initialization for Time-Sensitive Recommendation http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p703.pdf
-Training and Testing of Recommender Systems on Data Missing Not at Random http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p713.pdf
-Temporal Recommendation on Graphs via Long- and Short-term Preference Fusion http://nlpr-web.ia.ac.cn/2010papers/gjhy/gh55.pdf
-Generative Models for Ticket Resolution in Expert Networks http://ustorage.ucsb.edu/~miao/pdf/kdd10.pdf
-Evaluating Online Ad Campaigns in a Pipeline: Causal Models At Scale http://research.google.com/pubs/archive/36552.pdf
-Overlapping Experiment Infrastructure: More, Better, Faster Experimentation http://research.google.com/pubs/archive/36500.pdf
-Exploitation and Exploration in a Performance based Contextual Advertising System http://www.cs.cmu.edu/~xuerui/papers/ee.pdf
-MineFleet: An Overview of a Widely Adopted Distributed Vehicle Performance Data Mining System http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p37.pdf
-Multiple Kernel Learning for Heterogeneous Anomaly Detection: Algorithm and Aviation Safety Case Study http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p47.pdf
+http://sites.google.com/site/findexpert1/file/MiningAdvisor-AdviseeRelationshipsfromResearch.pdf Mining Advisor-Advisee Relationships from Resaerch Publication Networks
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p213.pdf Estimating Rates of Rare Events with Multiple Hierarchies through Scalable Log-linear Models
+http://www.cs.utexas.edu/~sugato/papers/aposteriori-uinorm-kdd10.pdf User Browsing Models: Relevance versus Examination
+http://research.google.com/pubs/archive/36371.pdf Suggesting Friends Using the Implicit Social Graph
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p243.pdf New Perspectives and Methods in Link Prediction
+http://making.csie.ndhu.edu.tw/seminar/making/papers/PDF/UP-Growth%20An%20Efficient%20Algorithm%20for%20High%20Utility%20Itemset%20Mining(SIGKDD2010).pdf UP-Growth: An Efficient Algorithm for High Utility Itemsets Mining
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p263.pdf Frequent Regular Itemset Mining
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p273.pdf Mining Uncertain Data with Probabilistic Guarantees
+http://wwwis.win.tue.nl/~tcalders/pubs/KDD2010 Mining Top-K Frequent Items in a Data Stream with Flexible Sliding Windows
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p293.pdf Probably the Best Itemsets
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p303.pdf Grafting-Light: Fast, Incremental Feature Selection and Structure Learning of Markov Random Fields
+http://www.public.asu.edu/~jye02/Publications/Papers/rp416c-sun.pdf A Scalable Two-Stage Approach for a Class of Dimensionality Reduction Techniques
+http://www.public.asu.edu/~jye02/Publications/Papers/rp589f-liu.pdf An Efficient Algorithm for a Class of Fused Lasso Problems
+https://wwwx.cs.unc.edu/Courses/comp790-090-s11/Presentations/p333-cai.pdf Unsupervised Feature Selection for Multi-Cluster Data
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p343.pdf Feature Selection for Support Vector Regression Using Probabilistic Prediction
+http://home.gwu.edu/~xjin/pub/kdd2010.pdf Versatile Publishing for Privacy Preservation
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p363.pdf Privacy-Preserving Outsourcing Support Vector Machines with Privacy Transformation
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p373.pdf On the Quality of Inferring Interests From Social Neighbors
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p383.pdf DUST: A Generalized Notion of Similarity between Uncertain Time Series
+http://hal.archives-ouvertes.fr/docs/00/48/56/19/PDF/paper.pdf Cold Start Link Prediction
+http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/kdd10.pdf Learning with Cost Intervals
+http://kops.ub.uni-konstanz.de/bitstream/handle/urn:nbn:de:bsz:352-opus-127267/12726.pdf?sequence=1 The new Iris Data: Modular Data Generators
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p423.pdf Why label when you can search? Strategies for applying human resources to build classification models under extreme class imbalance
+http://www.cs.ust.hk/~wilfred/paper/sigkdd10.pdf Discovering Significant Relaxed Order-Preserving Submatrices
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p443.pdf Topic Dynamics: an alternative model of `Bursts' in Streams of Topics
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p453.pdf Extracting Temporal Signatures for Comprehending Systems Biology Models
+https://wwwx.cs.unc.edu/Courses/comp790-090-s11/Presentations/p463-li.pdf Negative correlations in collaboration: concepts and algorithms
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p473.pdf k-Support Anonymity based on Pseudo Taxonomy for Outsourcing of Frequent Itemset Mining
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p483.pdf Collusion-Resistant Privacy-Preserving Data Mining
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p493.pdf Data Mining with Differential Privacy
+http://videolectures.net/site/normal_dl/tag=73057/kdd2010_thakurta_dfp_01.pdf Discovering frequent patterns in sensitive data
+http://www.cs.cmu.edu/~psarkar/rwdisk.pdf Fast Nearest Neighbor Search in Disk-resident Graphs
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p523.pdf Balanced Allocation with Succinct Representation
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p533.pdf Neighbor Query Friendly Compression of Social Networks
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p543.pdf Parallel SimRank Computation on Large Graphs with Iterative Aggregation
+https://wwwx.cs.unc.edu/Courses/comp790-090-s11/Presentations/p553-kumar.pdf Dynamics of Conversations
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p563.pdf Flexible Constrained Spectral Clustering
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p573.pdf A Hierarchical Information Theoretic Technique for the Discovery of Non Linear Alternative Clusterings
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p583.pdf Clustering by Synchronization
+http://people.cs.vt.edu/naren/papers/rp733e-hossain.pdf Unifying Dependent Clustering and Disparate Clustering for Non-homogeneous Data
+http://arxiv.org/pdf/cs.DS/9912014 Fast Euclidean Minimum Spanning Tree: Algorithm, Analysis, Applications
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p613.pdf Mining Program Workflow from Interleaved Traces
+http://140.122.184.128/presentation/10-11-09/Connecting%20the%20Dots%20Between%20News%20Articles.pdf Connecting the Dots Between News Articles
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p633.pdf Discovering Probabilistic Frequent Subgraphs over Uncertain Graph Databases
+http://people.eecs.ku.edu/~jhuan/papers/kdd_10_fei.pdf Boosting with Structure Information in the Functional Space: an Application to Graph Classification
+http://www.cs.cmu.edu/~seungilh/pdf/KDD10_Huh.pdf Discriminative Topic Modeling based on Manifold Learning
+http://www.kecl.ntt.co.jp/csl/sirg/people/yasushi/mdtm.pdf Online Multiscale Dynamic Topic Models
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p673.pdf Topic Models with Power-Law Using Pitman-Yor Process
+http://daim.pku.edu.cn/junjie.yao/papers/WWWJ2011.pdf The Topic-Perspective Model for Social Tagging Systems
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p693.pdf Combining Predictions for Accurate Recommender Systems
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p703.pdf Fast Online Learning through Effective Offline Initialization for Time-Sensitive Recommendation
+http://users.cs.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p713.pdf Training and Testing of Recommender Systems on Data Missing Not at Random
+http://nlpr-web.ia.ac.cn/2010papers/gjhy/gh55.pdf Temporal Recommendation on Graphs via Long- and Short-term Preference Fusion
+http://ustorage.ucsb.edu/~miao/pdf/kdd10.pdf Generative Models for Ticket Resolution in Expert Networks
+http://research.google.com/pubs/archive/36552.pdf Evaluating Online Ad Campaigns in a Pipeline: Causal Models At Scale
+http://research.google.com/pubs/archive/36500.pdf Overlapping Experiment Infrastructure: More, Better, Faster Experimentation
+http://www.cs.cmu.edu/~xuerui/papers/ee.pdf Exploitation and Exploration in a Performance based Contextual Advertising System
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p37.pdf MineFleet: An Overview of a Widely Adopted Distributed Vehicle Performance Data Mining System
+http://users.cis.fiu.edu/~lzhen001/activities/KDD_USB_key_2010/docs/p47.pdf Multiple Kernel Learning for Heterogeneous Anomaly Detection: Algorithm and Aviation Safety Case Study
