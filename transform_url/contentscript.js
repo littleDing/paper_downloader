@@ -69,7 +69,7 @@ function printOut(){
 	urls = JSON.parse(urls);
 	//alert(urls+"");
 	for ( p in urls){
-		ans += "" + p + " " + urls[p] + "<br>";
+		ans += "" + urls[p] + " "+p+"<br>";
 		//alert(urls[p]);
 	}
 	//alert(ans);	

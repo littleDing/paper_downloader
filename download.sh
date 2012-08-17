@@ -5,8 +5,11 @@
 ## Output: files
 function downloadPapers(){
 local ddd="./papers"; if ![ "x$1" -eq "x"  ]; then ddd=$1; mkdir -p $ddd;
-local 
-	awk '{}'
+local tmp="${ddd}/tmp/"; mkdir -p $ddd;
+	awk '{
+		
+	
+	}'
 }
 
 
