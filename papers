@@ -1,59 +1,7 @@
-Mining Advisor-Advisee Relationships from Resaerch Publication Networks
-Estimating Rates of Rare Events with Multiple Hierarchies through Scalable Log-linear Models
-User Browsing Models: Relevance versus Examination
-Suggesting Friends Using the Implicit Social Graph
-New Perspectives and Methods in Link Prediction
-UP-Growth: An Efficient Algorithm for High Utility Itemsets Mining
-Frequent Regular Itemset Mining
-Mining Uncertain Data with Probabilistic Guarantees
-Mining Top-K Frequent Items in a Data Stream with Flexible Sliding Windows
-Probably the Best Itemsets
-Grafting-Light: Fast, Incremental Feature Selection and Structure Learning of Markov Random Fields
-A Scalable Two-Stage Approach for a Class of Dimensionality Reduction Techniques
-An Efficient Algorithm for a Class of Fused Lasso Problems
-Unsupervised Feature Selection for Multi-Cluster Data
-Feature Selection for Support Vector Regression Using Probabilistic Prediction
-Versatile Publishing for Privacy Preservation
-Privacy-Preserving Outsourcing Support Vector Machines with Privacy Transformation
-On the Quality of Inferring Interests From Social Neighbors
-DUST: A Generalized Notion of Similarity between Uncertain Time Series
-Cold Start Link Prediction
-Learning with Cost Intervals
-The new Iris Data: Modular Data Generators
-Why label when you can search? Strategies for applying human resources to build classification models under extreme class imbalance
-Discovering Significant Relaxed Order-Preserving Submatrices
-Topic Dynamics: an alternative model of `Bursts' in Streams of Topics
-Extracting Temporal Signatures for Comprehending Systems Biology Models
-Negative correlations in collaboration: concepts and algorithms
-k-Support Anonymity based on Pseudo Taxonomy for Outsourcing of Frequent Itemset Mining
-Collusion-Resistant Privacy-Preserving Data Mining
-Data Mining with Differential Privacy
-Discovering frequent patterns in sensitive data
-Fast Nearest Neighbor Search in Disk-resident Graphs
-Balanced Allocation with Succinct Representation
-Neighbor Query Friendly Compression of Social Networks
-Parallel SimRank Computation on Large Graphs with Iterative Aggregation
-Dynamics of Conversations
-Flexible Constrained Spectral Clustering
-A Hierarchical Information Theoretic Technique for the Discovery of Non Linear Alternative Clusterings
-Clustering by Synchronization
-Unifying Dependent Clustering and Disparate Clustering for Non-homogeneous Data
-Fast Euclidean Minimum Spanning Tree: Algorithm, Analysis, Applications
-Mining Program Workflow from Interleaved Traces
-Connecting the Dots Between News Articles
-Discovering Probabilistic Frequent Subgraphs over Uncertain Graph Databases
-Boosting with Structure Information in the Functional Space: an Application to Graph Classification
-Discriminative Topic Modeling based on Manifold Learning
-Online Multiscale Dynamic Topic Models
-Topic Models with Power-Law Using Pitman-Yor Process
-The Topic-Perspective Model for Social Tagging Systems
-Combining Predictions for Accurate Recommender Systems
-Fast Online Learning through Effective Offline Initialization for Time-Sensitive Recommendation
-Training and Testing of Recommender Systems on Data Missing Not at Random
-Temporal Recommendation on Graphs via Long- and Short-term Preference Fusion
-Generative Models for Ticket Resolution in Expert Networks
-Evaluating Online Ad Campaigns in a Pipeline: Causal Models At Scale
-Overlapping Experiment Infrastructure: More, Better, Faster Experimentation
-Exploitation and Exploration in a Performance based Contextual Advertising System
-MineFleet: An Overview of a Widely Adopted Distributed Vehicle Performance Data Mining System
-Multiple Kernel Learning for Heterogeneous Anomaly Detection: Algorithm and Aviation Safety Case Study
+Background Modeling by Subspace Learning on Spatio-temporal Patches
+Parsing Video Events with Goal inference and Intent Prediction
+Video Event Parsing and Learning with Goal and Intent Prediction 
+Biologically-inspired Object Tracking Using Center-surround Mechanisms
+Streaming hierarchical video segmentation
+ Action bank: A high-level representation of activity in video.
+Similarity-based cross-layered hierarchical representation for object categorization

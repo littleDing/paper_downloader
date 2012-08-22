@@ -11,4 +11,4 @@ local ddd="./output"; if ![ "x$1" -eq "x"  ]; then ddd=$1; mkdir -p $ddd; fi
 	done;		
 }
 
-downloadPapers 
+cat transform_url/papers.url |  downloadPapers 
